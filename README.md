@@ -1,3 +1,3 @@
 # Git Learning
 
-Git Learning in Web.
+Git Learning in Local.
